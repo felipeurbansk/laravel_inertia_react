@@ -1,5 +1,3 @@
-{
-    output: {
-        chunkFilename: 'js/[name].js?id=[chunkhash]'
-    }
-}
+module.exports = {
+    watch: true,
+};
