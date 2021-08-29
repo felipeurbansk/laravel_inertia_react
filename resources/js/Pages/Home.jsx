@@ -5,7 +5,7 @@ const Home = () => {
         <h1>
             Hello worldesss
 
-            <p>Testdasdasdasdasdasdsasa</p>
+            <p>Teses</p>
         </h1>
     );
 };
